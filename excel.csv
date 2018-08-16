@@ -1,0 +1,22 @@
+Roll no,Name,Course,Gender,Batch,Marks1,Marks2
+1,Studen1,Btech,M,2018,93,60
+2,Studen2,BBA,F,2016,100,86
+3,Studen3,MBA,F,2017,61,70
+4,Studen4,BSc,F,2015,96,77
+5,Studen5,Btech,M,2014,85,84
+6,Studen6,BBA,M,2013,60,80
+7,Studen7,MBA,F,2014,74,79
+8,Studen8,BSc,F,2016,63,72
+9,Studen9,Btech,F,2018,70,75
+10,Studen10,BBA,M,2016,74,84
+11,Studen11,MBA,M,2016,87,75
+12,Studen12,BSc,F,2018,65,77
+13,Studen13,Btech,F,2016,89,68
+14,Studen14,BBA,F,2017,93,77
+15,Studen15,MBA,M,2018,81,63
+16,Studen16,BSc,M,2016,92,84
+17,Studen17,Btech,F,2017,70,60
+18,Studen18,BBA,F,2018,95,85
+19,Studen19,MBA,F,2015,99,70
+20,Studen20,BSc,M,2014,77,64
+df1 = read,,,,,,
